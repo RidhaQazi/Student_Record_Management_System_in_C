@@ -21,3 +21,11 @@ Throughout the project, I tested the application with various valid and invalid 
 
 Developing this project enhanced my practical understanding of file operations in C, the use of structures for complex data handling, and writing clean, modular code with effective input validation. It also introduced me to real-world programming challenges such as ensuring data consistency, avoiding duplication, and building an interactive and error-tolerant interface. This foundational experience in C programming has prepared me for more advanced topics in software development, including databases, memory management, and data structures.
 
+
+##Output
+
+![Image](https://github.com/user-attachments/assets/c1bfc58b-7f54-4a39-94ef-3b1a35f13fc7)
+
+![Image](https://github.com/user-attachments/assets/d140c694-0b19-47e7-a199-302b65586a6f)
+
+![Image](https://github.com/user-attachments/assets/3581b28b-9563-4486-ad69-720708d3916d)
