@@ -1,10 +1,15 @@
 # Student_Record_Management_System_in_C
 
 COMPANY: SNESTRON SYSTEMS PRIVATE LIMITED
+
 NAME: RIDHA QAZI
+
 INTERN ID: ST4WFE100
+
 DOMAIN: C PROGRAMMING
+
 DURATION: 4 WEEKS
+
 
 The Student Record Management System is a console-based application developed in the C programming language. It is designed to help manage and organize student data efficiently through various operations such as adding, modifying, displaying, searching, and deleting student records. This project served as an opportunity to apply core concepts of C such as structures, file handling, loops, conditionals, and function modularity. The program was developed using Visual Studio Code as the editor and compiled using the GCC compiler on a Windows operating system.
 
